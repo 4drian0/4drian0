@@ -1,4 +1,4 @@
-## 🐱‍👤 Iai eu sou Adriano Filho.
+## 🐱‍👤 Oi eu sou Adriano Filho
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
