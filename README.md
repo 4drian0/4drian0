@@ -1,6 +1,9 @@
-## 🐱‍👤 Oi eu sou Adriano Filho
+### 🐱‍👤 Oi eu sou Adriano Filho
 
-<div style="display: inline_block"><br>
+![4drian0 GitHub stats](https://github-readme-stats.vercel.app/api?username=4drian0&show_icons=true&theme=midnight-purple)<br>
+
+##Tecnologias que domino atualmente:
+<div style="display: inline_block">
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
