@@ -10,3 +10,5 @@
   <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--<img align="center" alt="Adriano-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">-->
 </div>
+
+![snake gif](https://github.com/4drian0/4drian0/blob/output/github-contribution-grid-snake.svg)
